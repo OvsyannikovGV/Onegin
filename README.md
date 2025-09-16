@@ -1,3 +1,3 @@
 # String sorting
-Programm sorts strings in text in alphabet order from input.txt
-Rythm sorting
+*AlphSort sorts strings in text in alphabetical order from input.txt
+*OnegSort sorts reversed strings in text in alphabetical order from input.txt (this way rhyming strings are displayed together)
